@@ -2,3 +2,11 @@ It is Afternoon now and is busy day.
 Today is 20th Feb and i am having new session.
 3rd row adding new line :
 For Git Pull - Practise Session.
+
+git clone is done only once
+go to the cloned directory
+do make the changes and do git add, commit, push 
+
+now, if someone on the remote(GitHub) made some changes, you have to run git pull  to update your directory,
+
+Don't clone the project again
